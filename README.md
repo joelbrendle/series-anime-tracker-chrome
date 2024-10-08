@@ -6,9 +6,9 @@ It tracks the episodes on your series & anime websites and shows your last seen 
 
 ## Why???
 
-Just a little experiment for myself to test the firefox extension api and just idk :D
+Just a little experiment for myself to test the chrome extension api and just idk :D
 Feel free to contribute
 
 ## Where can i find this crab?
 
-I still have to publish it :( (if you can read this then it is already public)
+https://chromewebstore.google.com/detail/series-anime-episode-trac/bmkkafgmdjjehphfcenekkmafccnnicl
